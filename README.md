@@ -13,4 +13,8 @@ Download data from this link:  https://public.tableau.com/app/sample-data/Hollyw
 ![image](https://github.com/sapnakhandelwal/Hollywood-Profitable-Movies/assets/147053399/1c68c8f4-7a75-4557-8e42-97d02b125947)
 
 
+![image](https://github.com/sapnakhandelwal/Hollywood-Profitable-Movies/assets/147053399/dbd89522-89e2-4f45-8387-f8650f0dc200)
+
+
+
 
