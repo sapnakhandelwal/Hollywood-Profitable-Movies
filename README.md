@@ -8,15 +8,17 @@ Findings –
 1. Dataset was quite clean with very fewer null values. 
 2. Basic Exploratory Analysis in R was quite straight forward.
 3. Column names was not appropriate so I have changed few column names.
-4. Dataset have good number of numeric columns, so I was able to create 4 Dashboards. More dashboards are possible. 
+4. Dataset have good number of numeric columns, so I was able to create 4 Dashboards. More dashboards are possible.
+   
 Analysis Flow -
 a.	Data was first imported in RStudio. 
-b.	Initial Exploratory Analysis is done. (Dimension 74*8)
+b.	Initial Exploratory Analysis is done. (Dimension 74 by 8)
 c.	Missing values have been found.
-d.	Dropped the missing values. (New Dimension 70*8)
+d.	Dropped the missing values. (New Dimension 70 by 8)
 e.	Scatter Plot and Bar Chart have been created in R.
 f.	Cleaned data is exported.
 g.	Cleaned Data (named clean_df) from R is being imported in Power BI.
+
 I have written few DAX functions in order to create few charts.
 1.	Year Count – Which count the number of times particular year appears
 2.	Yearly Profit – In order to find year wise profit 
