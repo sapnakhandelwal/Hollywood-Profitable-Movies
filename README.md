@@ -2,7 +2,7 @@
 Aim: To analyze the performance of Hollywood Movies (Year 2007-2012)   
 Data: Title, genre, studio, profitability and ratings for movies released 2007-2012. 
 Source: InformationIsBeautiful.net  
-Download data from this link:  https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv
+Datalink:  https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv
 
 Findings – 
 1. Dataset was quite clean with very fewer null values. 
@@ -34,7 +34,10 @@ I have written few DAX functions in order to create few charts.
 ![image](https://github.com/sapnakhandelwal/Hollywood-Profitable-Movies/assets/147053399/1c68c8f4-7a75-4557-8e42-97d02b125947)
 
 
-![image](https://github.com/sapnakhandelwal/Hollywood-Profitable-Movies/assets/147053399/dbd89522-89e2-4f45-8387-f8650f0dc200)
+![image](https://github.com/sapnakhandelwal/Hollywood-Profitable-Movies/assets/147053399/2eb1e4bb-54aa-41b6-b739-b6e8c921459a)
+
+
+
 
 
 
