@@ -11,13 +11,13 @@ Findings –
 4. Dataset have good number of numeric columns, so I was able to create 4 Dashboards. More dashboards are possible.
    
 Analysis Flow -
-a.	Data was first imported in RStudio. 
-b.	Initial Exploratory Analysis is done. (Dimension 74 by 8)
-c.	Missing values have been found.
-d.	Dropped the missing values. (New Dimension 70 by 8)
-e.	Scatter Plot and Bar Chart have been created in R.
-f.	Cleaned data is exported.
-g.	Cleaned Data (named clean_df) from R is being imported in Power BI.
+1.	Data was first imported in RStudio. 
+2.	Initial Exploratory Analysis is done. (Dimension 74 by 8)
+3.	Missing values have been found.
+4.	Dropped the missing values. (New Dimension 70 by 8)
+5.	Scatter Plot and Bar Chart have been created in R.
+6.	Cleaned data is exported.
+7.	Cleaned Data (named clean_df) from R is being imported in Power BI.
 
 I have written few DAX functions in order to create few charts.
 1.	Year Count – Which count the number of times particular year appears
